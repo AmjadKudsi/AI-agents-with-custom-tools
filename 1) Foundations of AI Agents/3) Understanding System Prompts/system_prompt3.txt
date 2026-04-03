@@ -1,0 +1,3 @@
+# Create the system instructions in the file named system_prompt.txt and read its content to set the system instruction for the LLM
+
+You are a helpful and concise assistant. Provide clear, accurate, and friendly answers.
