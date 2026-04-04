@@ -22,7 +22,7 @@ def build_messages(user_input, history=None, system_instruction=None):
     if history:
         for user_msg, assistant_msg in history[-5:]:
             messages.append({"role": "user", "content": user_msg})
-            messages.append({"role": "assitant", "content": assistant_msg})
+            messages.append({"role": "assistant", "content": assistant_msg})
             
     messages.append({"role": "user", "content": user_input})
     return messages
@@ -67,7 +67,7 @@ def main():
             user_input = input("\nYou: ").strip()
             
             if user_input.lower() in {"exit", "quit", "bye"}:
-                print("Goodbye!")
+                print("Goodbye! It was nice chatting with you.")
                 break
                 
             if not user_input:
