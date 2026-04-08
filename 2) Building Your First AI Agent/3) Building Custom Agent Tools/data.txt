@@ -1,0 +1,21 @@
+Wednesday, July 9 – Learning Notes
+
+🧠 Learning Goals:
+- Finish the “Clean Code” book (Ch. 7–9 this week)
+- Build a small side project in React using hooks and context
+- Watch 2 lectures from the distributed systems course
+- Start practicing SQL joins again (esp. outer joins)
+
+✅ Progress Today:
+- Read Chapter 7 of Clean Code — functions should do one thing and do it well!
+- Took notes on React useContext — still need to try it in a mini example
+- Watched 1 lecture on consensus algorithms (Paxos is confusing...)
+
+🔍 Questions:
+- Why do people prefer React Query over Redux for async?
+- How does CAP theorem apply to real-world databases?
+
+🗓️ Next Steps:
+- Try building a custom hook to fetch API data
+- Schedule 1:1 with Aram to ask about good open-source starter projects
+- Write a blog post draft: “3 Things I Learned About Writing Better Functions”
