@@ -1,0 +1,56 @@
+To start tackling React's `useContext`, you can follow these steps:
+
+1. **Understand Context API Basics**: Familiarize yourself with how the Context API works in React. It allows you to pass data through the component tree without having to pass props down manually at every level.
+
+2. **Set Up a Simple Example**: Create a new React component, perhaps a "Theme Toggler". You'll need a `ThemeContext` to hold the current theme and a function to toggle it.
+
+3. **Create Context**:
+   ```jsx
+   import React, { createContext, useState, useContext } from 'react';
+
+   const ThemeContext = createContext();
+
+   const ThemeProvider = ({ children }) => {
+     const [theme, setTheme] = useState('light');
+
+     const toggleTheme = () => {
+       setTheme((prevTheme) => (prevTheme === 'light' ? 'dark' : 'light'));
+     };
+
+     return (
+       <ThemeContext.Provider value={{ theme, toggleTheme }}>
+         {children}
+       </ThemeContext.Provider>
+     );
+   };
+   ```
+
+4. **Use Context in Components**:
+   ```jsx
+   const ThemeToggler = () => {
+     const { theme, toggleTheme } = useContext(ThemeContext);
+
+     return (
+       <div>
+         <button onClick={toggleTheme}>
+           Switch to {theme === 'light' ? 'dark' : 'light'} mode
+         </button>
+       </div>
+     );
+   };
+   ```
+
+5. **Wrap Components with Provider**:
+   ```jsx
+   const App = () => (
+     <ThemeProvider>
+       <ThemeToggler />
+     </ThemeProvider>
+   );
+   ```
+
+6. **Explore Further**: Once you understand `useContext`, you can compare it with other state management tools like React Query or Redux to understand their strengths and use cases, particularly for async data handling.
+
+7. **Document Your Learning**: Keep notes of what you learn for your blog post draft on writing better functions, perhaps considering clarity, reusability, and simplicity.
+
+By building the theme toggler, you're getting hands-on experience with `useContext`, which will reinforce your understanding of how React components can share data more efficiently.
