@@ -1,0 +1,52 @@
+Manager Agent: Here are your current tasks:
+
+1. **Buy groceries**
+   - **Status:** Not Done
+   - **Description:** Milk, eggs, bread, and coffee
+
+2. **Call mom**
+   - **Status:** Done
+   - **Description:** Check in and catch up
+
+3. **Finish project report**
+   - **Status:** Not Done
+   - **Description:** Summarize Q4 performance metrics
+
+4. **Workout**
+   - **Status:** Done
+   - **Description:** 30 minutes of cardio
+
+Let me know if you want to make any changes!
+Manager Agent: Here is your React learning plan:
+
+1. **Understand Basic Concepts**
+   - Learn about components, JSX, props, and state.
+
+2. **Build a Simple Application**
+   - Create a small app like a ToDo or Weather App.
+
+3. **Explore React Hooks**
+   - Learn `useState`, `useEffect`, and `useContext`.
+
+4. **Create a Theme Toggler Component**
+   - Use `useContext` for a theme toggler to practice context usage.
+
+5. **Deep Dive into Advanced Topics**
+   - Master React Router, state management, and performance optimization.
+
+6. **Build Real-World Projects**
+   - Develop complex applications with authentication, API integration, and responsive design.
+
+7. **Explore Testing Libraries**
+   - Use Jest and React Testing Library for testing your applications.
+
+8. **Stay Updated**
+   - Follow documentation and community blogs for the latest features.
+
+### Action Plan
+- Set weekly learning goals.
+- Practice coding regularly.
+- Join React communities for support.
+
+Feel free to ask for more specific resources or guidance!
+Exiting the manager agent.

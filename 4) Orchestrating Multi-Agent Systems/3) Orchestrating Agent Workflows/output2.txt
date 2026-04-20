@@ -1,0 +1,60 @@
+Manager Agent: Here are your current tasks:
+
+1. **Buy groceries**
+   - **Status**: Not done
+   - **Description**: Milk, eggs, bread, and coffee
+
+2. **Call mom**
+   - **Status**: Done
+   - **Description**: Check in and catch up
+
+3. **Finish project report**
+   - **Status**: Not done
+   - **Description**: Summarize Q4 performance metrics
+
+4. **Workout**
+   - **Status**: Done
+   - **Description**: 30 minutes of cardio
+
+If you need help managing these tasks, just let me know!
+Manager Agent: Here's your learning plan for React, specifically focusing on experimenting with `useContext`:
+
+### Objective
+Create a theme toggler component using React's `useContext`.
+
+### Steps
+
+1. **Understand the Basics**
+   - Review React's context API documentation.
+
+2. **Project Setup**
+   - Set up a React app using create-react-app.
+
+3. **Identify Requirements**
+   - Choose two themes (e.g., light and dark).
+
+4. **Create Context**
+   - Set up and export a context for the themes.
+
+5. **Develop Theme Provider**
+   - Create a ThemeProvider component with state management for themes.
+
+6. **Build Theme Toggler Component**
+   - Use `useContext` to access themes and implement a toggle.
+
+7. **Apply Themes**
+   - Style components based on the current theme.
+
+8. **Testing**
+   - Verify theme toggler functionality and theme consistency.
+
+9. **Deploy and Reflect**
+   - Deploy on platforms like Vercel or Netlify and document your learnings.
+
+### Additional Resources
+- [React Documentation on Context](https://reactjs.org/docs/context.html)
+- YouTube tutorials for practical examples
+- Community forums for troubleshooting
+
+This plan will help enhance your understanding of state management in React applications.
+Exiting the manager agent.

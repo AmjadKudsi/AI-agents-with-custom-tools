@@ -1,0 +1,68 @@
+Manager Agent: Here are your current tasks:
+
+1. **Buy groceries**
+   - **Status:** Not Done
+   - **Description:** Milk, eggs, bread, and coffee
+
+2. **Call mom**
+   - **Status:** Done
+   - **Description:** Check in and catch up
+
+3. **Finish project report**
+   - **Status:** Not Done
+   - **Description:** Summarize Q4 performance metrics
+
+4. **Workout**
+   - **Status:** Done
+   - **Description:** 30 minutes of cardio
+
+Let me know if you need any help with these tasks!
+Manager Agent: Here's your React learning plan focused on experimenting with `useContext`:
+
+### **React Learning Plan**
+
+#### **Objective:** 
+Learn to use React's `useContext` for state management across components without prop drilling.
+
+#### **Project**: 
+Create a Theme Toggler Component
+
+---
+
+### **Steps:**
+
+1. **Understand `useContext`:**
+   - Research the basics of React Context API and `useContext` hook.
+   - Explore how `useContext` simplifies prop passing.
+
+2. **Set Up Your Project:**
+   - Use Create React App to create a new React project.
+   - Organize your project with components, hooks, and styles directories.
+
+3. **Build the Theme Context:**
+   - Define a `ThemeContext` using `React.createContext`.
+   - Create a ThemeProvider component to provide theme context.
+   - Define light and dark theme values.
+
+4. **Develop the Theme Toggler:**
+   - Implement a theme toggling button.
+   - Use `useContext` to access the current theme and toggle function.
+
+5. **Style Your Application:**
+   - Apply styles based on the current theme.
+   - Use CSS variables or similar methods for easy theme changes.
+
+6. **Refactor and Optimize:**
+   - Look for optimization opportunities.
+   - Ensure clean and reusable code.
+
+7. **Test Your Component:**
+   - Ensure correct behavior of the theme toggler.
+   - Make sure the theme persists if needed.
+
+8. **Explore Advanced Topics (Optional):**
+   - Consider using `useReducer` with `useContext` for complex state management.
+   - Explore theming libraries like styled-components or emotion.
+
+By following this plan, you'll gain practical experience with `useContext` and its benefits in React applications. Enjoy coding! 🌟
+Exiting the manager agent.
