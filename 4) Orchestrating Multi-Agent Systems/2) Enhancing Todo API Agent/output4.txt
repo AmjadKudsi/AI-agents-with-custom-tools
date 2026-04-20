@@ -1,0 +1,31 @@
+Here are your current tasks:
+
+1. **Buy groceries**
+   - Description: Milk, eggs, bread, and coffee
+   - Status: Not Done
+
+2. **Call mom**
+   - Description: Check in and catch up
+   - Status: Done
+
+3. **Finish project report**
+   - Description: Summarize Q4 performance metrics
+   - Status: Not Done
+
+4. **Workout**
+   - Description: 30 minutes of cardio
+   - Status: Done
+
+Let me know if you need any changes!
+The task "Plan a trip to Paris" has been successfully created with the following details:
+
+- **Title**: Plan a trip to Paris
+- **Description**: Research best tourist attractions and create an itinerary.
+- **Status**: Not done
+
+If you need anything else, feel free to ask!
+[{'description': 'Milk, eggs, bread, and coffee', 'done': False, 'id': 1, 'title': 'Buy groceries'}, {'description': 'Check in and catch up', 'done': True, 'id': 2, 'title': 'Call mom'}, {'description': 'Summarize Q4 performance metrics', 'done': False, 'id': 3, 'title': 'Finish project report'}, {'description': '30 minutes of cardio', 'done': True, 'id': 4, 'title': 'Workout'}, {'description': 'Research best tourist attractions and create an itinerary.', 'done': False, 'id': 5, 'title': 'Plan a trip to Paris'}]
+The task "Plan a trip to Paris" has been marked as done. If you need further assistance, feel free to ask!
+[{'description': 'Milk, eggs, bread, and coffee', 'done': False, 'id': 1, 'title': 'Buy groceries'}, {'description': 'Check in and catch up', 'done': True, 'id': 2, 'title': 'Call mom'}, {'description': 'Summarize Q4 performance metrics', 'done': False, 'id': 3, 'title': 'Finish project report'}, {'description': '30 minutes of cardio', 'done': True, 'id': 4, 'title': 'Workout'}, {'description': 'Research best tourist attractions and create an itinerary.', 'done': True, 'id': 5, 'title': 'Plan a trip to Paris'}]
+The task "Plan a trip to Paris" has been deleted successfully.
+[{'description': 'Milk, eggs, bread, and coffee', 'done': False, 'id': 1, 'title': 'Buy groceries'}, {'description': 'Check in and catch up', 'done': True, 'id': 2, 'title': 'Call mom'}, {'description': 'Summarize Q4 performance metrics', 'done': False, 'id': 3, 'title': 'Finish project report'}, {'description': '30 minutes of cardio', 'done': True, 'id': 4, 'title': 'Workout'}]
