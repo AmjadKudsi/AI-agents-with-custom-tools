@@ -1,0 +1,69 @@
+Here are your current tasks:
+
+1. **Buy groceries**
+   - Description: Milk, eggs, bread, and coffee
+   - Status: Not done
+
+2. **Call mom**
+   - Description: Check in and catch up
+   - Status: Done
+
+3. **Finish project report**
+   - Description: Summarize Q4 performance metrics
+   - Status: Not done
+
+4. **Workout**
+   - Description: 30 minutes of cardio
+   - Status: Done
+
+Let me know if you need any changes!
+Task created successfully:
+
+- **Title:** Learn Python
+- **Description:** Complete the Python course
+- **Status:** Not done
+5
+The "Learn Python" task has been marked as done.
+5
+Here are your tasks:
+
+1. **Buy groceries**
+   - **Done:** No
+   - **Description:** Milk, eggs, bread, and coffee
+
+2. **Call mom**
+   - **Done:** Yes
+   - **Description:** Check in and catch up
+
+3. **Finish project report**
+   - **Done:** No
+   - **Description:** Summarize Q4 performance metrics
+
+4. **Workout**
+   - **Done:** Yes
+   - **Description:** 30 minutes of cardio
+
+5. **Learn Python**
+   - **Done:** Yes
+   - **Description:** Complete the Python course
+
+If you need any changes, just let me know!
+The "Learn Python" task has been deleted successfully. If there's anything else you need, feel free to ask!
+4
+Here are your tasks:
+
+1. **Buy groceries**  
+   - **Status:** Incomplete  
+   - **Description:** Milk, eggs, bread, and coffee  
+
+2. **Call mom**  
+   - **Status:** Complete  
+   - **Description:** Check in and catch up  
+
+3. **Finish project report**  
+   - **Status:** Incomplete  
+   - **Description:** Summarize Q4 performance metrics  
+
+4. **Workout**  
+   - **Status:** Complete  
+   - **Description:** 30 minutes of cardio  
